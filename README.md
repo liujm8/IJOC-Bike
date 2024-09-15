@@ -72,7 +72,7 @@ WEEKDAY = True #(Weekday demand or weekend demand prediction)
 HISTORICAL_WINDOW = 5 #(time lag. 5: for weekday prediction; 2: weekend prediction.)
 TEST_HORIZON = 10 #(number of days for evaluation)
 ```
-The following scripts are used for small and medium case studies (Table 2, 3, ):
+The following scripts are used for small and medium case studies:
 
 4. 3-1-Multivisit_vMIP.py: vMIP model that supports multivisit strategy (Table 2).
 5. 3-2-Singlevisit_vMIP.py: vMIP model that supports single visit strategy (Table 2).
@@ -89,4 +89,4 @@ The **result** folder contains log files and final outputs of the scripts.
 ## Ongoing Development
 
 This code is being developed on an on-going basis at the author's
-[Github site](https://github.com/liujm8/Taxi-Route/tree/main).
+[Github site](https://github.com/liujm8/IJOC-Bike).
