@@ -13,9 +13,9 @@ used in the research reported on in the paper
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-[https://doi.org/10.1287/ijoc.XXXX.XXXX](https://doi.org/10.1287/ijoc.XXXX.XXXX)
+[https://doi.org/10.1287/ijoc.2022.0182](https://doi.org/10.1287/ijoc.2022.0182)
 
-[https://doi.org/10.1287/ijoc.XXXX.XXXX.cd](https://doi.org/10.1287/ijoc.XXXX.XXXX.cd)
+[https://doi.org/10.1287/ijoc.2022.0182.cd](https://doi.org/10.1287/ijoc.2022.0182.cd)
 
 
 Below is the BibTex for citing this version of the code.
@@ -26,8 +26,9 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {A Data-Driven Optimization Framework for Static Rebalancing Operations in Bike Sharing Systems},
   year =          {2024},
-  doi =           {10.1287/ijoc.XXXX.XXXX.cd},
-  note =          {Available for download at https://github.com/INFORMSJoC/XXXX.XXXX}
+  doi =           {10.1287/ijoc.2022.0182.cd},
+  url =           {https://github.com/INFORMSJoC/2022.0182},
+  note =          {Available for download at https://github.com/INFORMSJoC/2022.0182}
 }  
 ```
 ## Requirements
